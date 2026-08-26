@@ -17,6 +17,7 @@ The beginning of the program lets you customize your game:
 - starting stack size
 - big blind size (small blind automatically 1/2 of a big blind)
 - ante size
+
 The default options are:
 - 5 bots, 1 player
 - 100
